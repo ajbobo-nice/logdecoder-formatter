@@ -1,7 +1,7 @@
 {
   "name": "ajb-log-decoder-formatter",
   "main": "./lib/ajb-log-decoder-formatter",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Clean up text from LogDecoder",
   "keywords": [
   ],
