@@ -1,6 +1,6 @@
 # ajb-log-decoder-formatter package
 
-Replaces characters used by LogDecoder with spaces
+An Atom package that replaces characters used by LogDecoder with spaces
 Specifically, ASCII characters 1,2,5
 
 For more information about Atom packages:
