@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "LogDecoder Formatter",
+        "command": "ajb-log-decoder-formatter:format"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "LogDecoder Formatter",
+          "submenu": [
+            {
+              "label": "Format",
+              "command": "ajb-log-decoder-formatter:format"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
