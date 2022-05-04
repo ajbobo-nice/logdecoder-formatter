@@ -1,9 +1,7 @@
 import * as vscode from 'vscode';
 
 export function activate(context: vscode.ExtensionContext) {
-	
 	console.log('Extension "ajb-logdecoder-formatter" is now active');
-
 	let disposable = vscode.commands.registerCommand('ajb-logdecoder-formatter.cleanText', cleanText);
 	context.subscriptions.push(disposable);
 }

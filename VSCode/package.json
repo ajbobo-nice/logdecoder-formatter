@@ -2,6 +2,11 @@
   "name": "ajb-logdecoder-formatter",
 	"displayName": "LogDecoder Formatter",
 	"description": "",
+	"author": {
+		"name": "A.J. Bobo"
+	},
+	"private": true,
+	"publisher": "A.J. Bobo",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.66.0"
